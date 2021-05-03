@@ -96,6 +96,12 @@
                             Estos textos contienen párrafos cortos de fácil asimilación para esta edad. 
                             Por su parte, los juegos contienen preguntas relativas al contenido del texto, estando.
                         </p>
+                         <h2>Sexta Entrada</h2>
+                        <span class="fecha">02-05-2021</span>
+                        <p>
+                            Un cazador de vampiros lucha para salvar a una ciudad asediada de un ejército de 
+                            bestias de otro mundo controladas por Drácula.
+                        </p>
                     </a>
                 </article>
             </div> <!-- Fin Principal -->
