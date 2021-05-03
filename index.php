@@ -11,7 +11,7 @@
             <!-- LOGO  -->
             <div id="logo">
                 <a href="">
-                    Blog de prueba
+                    Blog de Videojuegos
                 </a>
             </div>
             <!-- MENU -->
