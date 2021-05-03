@@ -62,12 +62,19 @@
 
                 <article class="entrada">
                     <a href="">
-                        <h2>Entradas</h2>
-                        <span class="fecha">02-05-2021</span>
+                        <h2>Primera Entrada</h2>
+                        <span class="fecha">02-03-2021</span>
                         <p>
                             Es conveniente no usar mucho las líneas horizontales, limitándolas al comienzo y fin de la página. 
                             La razón de esto es que las líneas en medio de la página dificultan la lectura de esta. 
                             Si se desea separar secciones un espacio vertical del tamaño adecuado es más efectivo.
+                        </p>
+                        <h2>Segunda Entrada</h2>
+                        <span class="fecha">02-04-2021</span>
+                        <p>
+                            Está compuesto por un conjunto de oraciones que tienen cierta unidad temática o que, sin tenerla, se enuncian juntas. 
+                            Es un componente del texto que en su aspecto externo comienza con una mayúscula y termina en un punto y aparte. 
+                            Comprende varias oraciones relacionadas sobre el mismo subtema; una de ellas expresa la idea principal.
                         </p>
                     </a>
                 </article>
