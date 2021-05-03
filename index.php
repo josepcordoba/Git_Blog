@@ -76,6 +76,12 @@
                             Es un componente del texto que en su aspecto externo comienza con una mayúscula y termina en un punto y aparte. 
                             Comprende varias oraciones relacionadas sobre el mismo subtema; una de ellas expresa la idea principal.
                         </p>
+                        <h2>Tercera Entrada</h2>
+                        <span class="fecha">02-04-2021</span>
+                        <p>
+                            Para escribir texto dentro de un documento HTML simplemente tenemos que añadir texto al fichero que contenga
+                            nuestra página web. Así de simple.
+                        </p>
                     </a>
                 </article>
             </div> <!-- Fin Principal -->
