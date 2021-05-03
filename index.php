@@ -11,7 +11,7 @@
             <!-- LOGO  -->
             <div id="logo">
                 <a href="">
-                    Blog
+                    Blog de prueba
                 </a>
             </div>
             <!-- MENU -->
