@@ -88,6 +88,12 @@
                             Aprendiendo GitHub con codigo facilito.
                         </p>
                         <h2>Cuarta Entrada</h2>
+                        <span class="fecha">01-05-2021</span>
+                        <p>
+                            Estos textos contienen párrafos cortos de fácil asimilación para esta edad. 
+                            Por su parte, los juegos contienen preguntas relativas al contenido del texto, estando.
+                        </p>
+                        <h2>Quinta Entrada</h2>
                         <span class="fecha">02-05-2021</span>
                         <p>
                             Estos textos contienen párrafos cortos de fácil asimilación para esta edad. 
