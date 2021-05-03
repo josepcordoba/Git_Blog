@@ -62,26 +62,30 @@
 
                 <article class="entrada">
                     <a href="">
-                        <h2>Bienvenido</h2>
-                        <h3>Primera Entrada</h3>
+                        <h2>Primera Entrada</h2>
                         <span class="fecha">02-03-2021</span>
                         <p>
                             Es conveniente no usar mucho las líneas horizontales, limitándolas al comienzo y fin de la página. 
                             La razón de esto es que las líneas en medio de la página dificultan la lectura de esta. 
                             Si se desea separar secciones un espacio vertical del tamaño adecuado es más efectivo.
                         </p>
-                        <h3>Segunda Entrada</h3>
-                        <span class="fecha">02-04-2021</span>
+                        <h2>Segunda Entrada</h2>
+                        <span class="fecha">02-03-2021</span>
                         <p>
                             Está compuesto por un conjunto de oraciones que tienen cierta unidad temática o que, sin tenerla, se enuncian juntas. 
                             Es un componente del texto que en su aspecto externo comienza con una mayúscula y termina en un punto y aparte. 
                             Comprende varias oraciones relacionadas sobre el mismo subtema; una de ellas expresa la idea principal.
                         </p>
-                        <h3>Tercera Entrada</h3>
+                        <h2>Tercera Entrada</h2>
                         <span class="fecha">02-04-2021</span>
                         <p>
                             Para escribir texto dentro de un documento HTML simplemente tenemos que añadir texto al fichero que contenga
                             nuestra página web. Así de simple.
+                        </p>
+                        <h2>Git Hub</h2>
+                        <span class="fecha">02-05-2021</span>
+                        <p>
+                            Aprendiendo GitHub con codigo facilito.
                         </p>
                     </a>
                 </article>
