@@ -70,22 +70,28 @@
                             Si se desea separar secciones un espacio vertical del tamaño adecuado es más efectivo.
                         </p>
                         <h2>Segunda Entrada</h2>
-                        <span class="fecha">02-03-2021</span>
+                        <span class="fecha">02-02-2021</span>
                         <p>
                             Está compuesto por un conjunto de oraciones que tienen cierta unidad temática o que, sin tenerla, se enuncian juntas. 
                             Es un componente del texto que en su aspecto externo comienza con una mayúscula y termina en un punto y aparte. 
                             Comprende varias oraciones relacionadas sobre el mismo subtema; una de ellas expresa la idea principal.
                         </p>
                         <h2>Tercera Entrada</h2>
-                        <span class="fecha">02-04-2021</span>
+                        <span class="fecha">02-03-2021</span>
                         <p>
                             Para escribir texto dentro de un documento HTML simplemente tenemos que añadir texto al fichero que contenga
                             nuestra página web. Así de simple.
                         </p>
                         <h2>Git Hub</h2>
-                        <span class="fecha">02-05-2021</span>
+                        <span class="fecha">02-04-2021</span>
                         <p>
                             Aprendiendo GitHub con codigo facilito.
+                        </p>
+                        <h2>Cuarta Entrada</h2>
+                        <span class="fecha">02-05-2021</span>
+                        <p>
+                            Estos textos contienen párrafos cortos de fácil asimilación para esta edad. 
+                            Por su parte, los juegos contienen preguntas relativas al contenido del texto, estando.
                         </p>
                     </a>
                 </article>
