@@ -29,6 +29,9 @@
                     <li>
                         <a href="">Contacto</a>
                     </li>
+                    <li>
+                        <a href="">Historia</a>
+                    </li>
                 </ul>
             </nav>
             <div class="clearfix"></div>
