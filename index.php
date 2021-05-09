@@ -102,6 +102,13 @@
                             Un cazador de vampiros lucha para salvar a una ciudad asediada de un ejército de 
                             bestias de otro mundo controladas por Drácula.
                         </p>
+                         <h2>Septima Entrada</h2>
+                        <span class="fecha">02-05-2021</span>
+                        <p>
+                            Biohazard —nombre con que se conoce en Japón—, rebautizado en Estados Unidos y Europa como Resident Evil
+                            es una serie de videojuegos y una franquicia de medios, entre los que se incluyen manga, novelas, películas
+                            y coleccionables como figuras de acción,
+                        </p>
                     </a>
                 </article>
             </div> <!-- Fin Principal -->
